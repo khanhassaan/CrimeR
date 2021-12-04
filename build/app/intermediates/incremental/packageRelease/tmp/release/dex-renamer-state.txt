@@ -1,0 +1,4 @@
+#Thu Dec 02 23:58:00 IST 2021
+base.0=D\:\\CrimeR\\build\\app\\intermediates\\transforms\\r8\\release\\0\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

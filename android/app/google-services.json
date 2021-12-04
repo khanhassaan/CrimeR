@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "591004562332",
+    "project_id": "fir-auth-28c4f",
+    "storage_bucket": "fir-auth-28c4f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:591004562332:android:345e37cbb3cea620c6ce59",
+        "android_client_info": {
+          "package_name": "com.example.crimer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "591004562332-2ikf7qgu220sauql3sub6c6hg97uvfaj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJ7l7M2DlidoS6pxCp4tkG506_aLXKspg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "591004562332-2ikf7qgu220sauql3sub6c6hg97uvfaj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
